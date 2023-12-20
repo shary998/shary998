@@ -15,4 +15,4 @@ I'm a passionate Android developer from Pakistan
 📄 Know about my experiences https://www.linkedin.com/in/shaheryar-saleem-b32846176/
 
 Languages and Tools:
-Java Kotlin c cplusplus XML figma firebase SQL git graphql sqlite mysql xd
+https://img.shields.io/badge/dynamic/json?url=Java , Kotlin c cplusplus XML figma firebase SQL git graphql sqlite mysql xd
