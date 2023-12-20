@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A passionate Android developer from Pakistan
+I'm a passionate Android developer from Pakistan
 
 🌱 I’m currently working on Smart Watches Integration.
 
