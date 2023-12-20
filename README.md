@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**shary998/shary998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Android developer from Pakistan
 
-Here are some ideas to get you started:
+🌱 I’m currently working on Smart Watches Integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Open Source Libraries
+
+👨‍💻 All of my projects are available at https://github.com/shary998
+
+💬 Ask me about Java,Kotlin, data structures and algorithms
+
+📫 How to reach me shaheryar98@live.com
+
+📄 Know about my experiences https://www.linkedin.com/in/shaheryar-saleem-b32846176/
+
+Languages and Tools:
+
+Java Kotlin c cplusplus XML figma firebase SQL git graphql sqlite mysql xd
